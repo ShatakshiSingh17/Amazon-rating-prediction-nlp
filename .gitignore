@@ -1,0 +1,32 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+venv/
+env/
+*.env
+
+# macOS and system files
+.DS_Store
+Thumbs.db
+
+# Data files (large datasets or temp files)
+data/
+*.csv
+*.xlsx
+*.zip
+
+# Logs and temporary outputs
+*.log
+*.out
+
+# IDE files
+.vscode/
+.idea/
